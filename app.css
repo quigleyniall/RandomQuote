@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+h1{
+    font-size: 80px;
+    font-family: serif;
+
+
+}
+#newquote{
+    width: 25%;
+
+}
+#tweet{
+    width: 25%;
+
+}
+
+p{
+    font-size: 45px;
+    color: white;
+}
+img{
+    margin: 20px;
+    width: 50%;
+    height: 90%;
+}
+.quotes{
+    padding: 40px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    width: 50%;
+    border-radius: 5px;
+
+}
+.author{
+    font-family: italic;
+    font-size: 20px;
+    color: grey;
+}
+.quote{
+    font-size: 22px;
+    color: green;
+}
